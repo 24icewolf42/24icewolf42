@@ -1,0 +1,3 @@
+- 👋 Hi, I’m a source code crafter
+- 👀 I’m interested in reading / writing source code in nearly any language
+- 🌱 I’m currently learning the Bluetooth LE API using BlueZ
