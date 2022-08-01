@@ -1,3 +1,1 @@
-- 👋 Hi, I’m a source code crafter
-- 👀 I’m interested in reading / writing source code in nearly any language
-- 🌱 I’m currently learning the Rust language for an embedded OpenGL ES project
+The best way to predict the future is to invent it.
